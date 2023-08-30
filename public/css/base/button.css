@@ -1,0 +1,20 @@
+.t-button{
+    height: 36px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    outline: none;
+    color: #fff !important;
+    min-width: 80px;
+    cursor: pointer;
+    padding: 0 16px;
+}
+.t-button-primary{
+    background-color: #86BA09;
+}
+.t-button-primary:hover{
+    background-color: #445714;
+}
+
+.t-button-primary:focus{
+    background-color: #111409;
+}
